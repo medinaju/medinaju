@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👩‍💻 Juliana Medina
 
-<!--
-**medinaju/medinaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de Análise e Desenvolvimento de Sistemas  
+📍 Santa Rosa - RS  
+📧 jumedina02@gmail.com | 📱 (55) 98408-0590  
+🔗 [LinkedIn](https://www.linkedin.com/in/juliana-medina-39a5a1203)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mim
+
+Sou apaixonada por tecnologia e estou em constante aprendizado. Atualmente curso Análise e Desenvolvimento de Sistemas 
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- HTML / CSS
+- Git / GitHub
+- Pacote Office
+- Trello, Notion
+- Edição básica de imagem
+- Inglês e Espanhol (nível básico)
+
+---
+
+## 📚 Em aprendizado
+
+- JavaScript
+- Bootstrap 5
+- Python
+- Lógica de Programação
+- Git e versionamento
+
+---
+
+Obrigada pela visita! 💙
+
