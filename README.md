@@ -13,8 +13,7 @@
 
 ## 💡 Sobre mim
 
-Sou apaixonada por tecnologia e estou em constante aprendizado. Atualmente curso Análise e Desenvolvimento de Sistemas e busco oportunidades remotas nas áreas de **TI** ou **Social Media**.
-
+Sou apaixonada por tecnologia e estou em constante aprendizado. Atualmente curso Análise e Desenvolvimento de Sistemas
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
