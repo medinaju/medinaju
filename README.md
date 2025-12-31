@@ -18,20 +18,14 @@ Sou apaixonada por tecnologia e estou em constante aprendizado.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- HTML / CSS  
-- Git / GitHub  
-- Pacote Office  
-- Inglês e Espanhol (nível básico)
+- HTML / CSS
+- MySQL
+- Node.js 
+- Git / GitHub
+- JavaScript 
 
 ---
 
-## 📚 Em aprendizado
-
-- JavaScript  
-- Bootstrap 5  
-- Python  
-- Lógica de Programação  
-- Git e versionamento
 
 
 
