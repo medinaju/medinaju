@@ -13,7 +13,7 @@
 
 ## 💡 Sobre mim
 
-Sou apaixonada por tecnologia e estou em constante aprendizado. Atualmente curso Análise e Desenvolvimento de Sistemas
+Sou apaixonada por tecnologia e estou em constante aprendizado. 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
