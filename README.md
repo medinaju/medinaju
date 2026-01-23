@@ -22,7 +22,8 @@ Sou apaixonada por tecnologia e estou em constante aprendizado.
 - MySQL
 - Node.js 
 - Git / GitHub
-- JavaScript 
+- JavaScript
+- React
 
 ---
 
